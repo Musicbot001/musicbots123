@@ -1,5 +1,5 @@
-token= NjA2NTA3NjgwOTc4NDM2MTAx.XUMEUw.0_dM06it1BtErKsP13Pes2T-HL4
-owner= 408926307372498945
+token=NjA2NTA3NjgwOTc4NDM2MTAx.XUMEUw.0_dM06it1BtErKsP13Pes2T-HL4
+owner=408926307372498945
 prefix= A
 game= FéarLess , Server !
 stayinchannel=true 
