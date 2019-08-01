@@ -1,4 +1,4 @@
-token= NjA2NTA3NjgwOTc4NDM2MTAx.XUMEUw.0_dM06it1BtErKsP13Pes2T-HL4
+token= NjA2NTEyODUwNDc0ODkzMzUy.XUMJJA.PS062Yv_iPVRKtptNGGy5gf_Yu4
 owner= 408926307372498945
 prefix= A
 game= FéarLess , Server !
